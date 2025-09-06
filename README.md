@@ -1,2 +1,2 @@
-# Solution Ovain
+# Solution Ovian
 Ovian-Ovarian Cancer Solution
